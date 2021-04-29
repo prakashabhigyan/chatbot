@@ -1,7 +1,6 @@
 # Used by pip to install required python packages
 # Usage: pip install -r requirements.txt
-Python==2.7.0
 Flask==0.12.3
 chatterbot==0.8.4
 SQLAlchemy==1.1.11
-gunicorn==19.19.0
+Gunicorn==20.1.0
